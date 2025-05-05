@@ -1,0 +1,8 @@
+<CarDetails>
+    <Car>
+        <Make>Toyota</Make>
+        <Model>Camry</Model>
+        <Year>2022</Year>
+        <Price>30000</Price>
+    </Car>
+</CarDetails>

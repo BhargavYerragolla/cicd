@@ -1,0 +1,8 @@
+<CarDetails>
+    <Car>
+        <Make>BMW</Make>
+        <Model>7-Series</Model>
+        <Year>2024</Year>
+        <Price>80000</Price>
+    </Car>
+</CarDetails>
